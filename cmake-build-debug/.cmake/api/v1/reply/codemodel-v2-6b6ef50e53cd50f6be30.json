@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DataStructure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Graph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Graph-Debug-d4f7d88e5d0b12b10e3f.json",
+					"name" : "Graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hafuman::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hafuman-Debug-2370648a2e6085bfc9a9.json",
+					"name" : "Hafuman",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InorderThread::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InorderThread-Debug-5d00dbda4549ec5fad4b.json",
+					"name" : "InorderThread",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-List-Debug-11d558c9b5839db0efa7.json",
+					"name" : "List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main-Debug-3859f88d07b58c0e8919.json",
+					"name" : "Main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReversePolishNotaion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReversePolishNotaion-Debug-e35f96a772c0b8d2aeab.json",
+					"name" : "ReversePolishNotaion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sort-Debug-327f4916ea33b867b9f5.json",
+					"name" : "Sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test-Debug-acef1f3136d33db8983f.json",
+					"name" : "Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tree-Debug-d21af48d392de2e34359.json",
+					"name" : "Tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-a-Debug-c3ebba81d31238bc3935.json",
+					"name" : "a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "huffTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-huffTree-Debug-c9a458c6b5961a4f4fb4.json",
+					"name" : "huffTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-43241029afb728ec57e1.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum-Debug-57a64182325bcc98b406.json",
+					"name" : "sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test1-Debug-8b89bf7f3817879e067f.json",
+					"name" : "test1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luck/Desktop/Code/CPP/DataStructure/cmake-build-debug",
+		"source" : "/Users/luck/Desktop/Code/CPP/DataStructure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
